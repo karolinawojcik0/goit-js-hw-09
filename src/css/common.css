@@ -17,11 +17,6 @@ img {
   max-width: 100%;
 }
 
-button {
-  padding: 10px;
-  font-size: 1.5em;
-}
-
 .timer {
   display: flex;
   gap: 20px;
